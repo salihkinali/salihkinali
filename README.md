@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihkinali&label=Profile%20views&color=0e75b6&style=flat" alt="salihkinali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihkinali" alt="salihkinali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s_kinali" target="blank"><img src="https://img.shields.io/twitter/follow/s_kinali?logo=twitter&style=for-the-badge" alt="s_kinali" /></a> </p>
-
 - 🔭 I’m currently working on **Finance Operation Responsible at Hastalya Automotive Invesment marketing Mercedes dealer. Also I interested in Mobile Application Development at the same time.**
 
 - 🌱 I’m currently learning **kotlin,Android,Githup,Git**
