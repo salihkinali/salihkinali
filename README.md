@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Salih KInalı.</h1>
+<h1 align="center">Hi 👋, I am Salih Kınalı.</h1>
 <h3 align="center">A passionate Mobile Application Development</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
