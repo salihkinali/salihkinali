@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on **Finance Operation Responsible at Hastalya Automotive Invesment marketing Mercedes dealer. Also I interested in Mobile Application Development at the same time.**
-  🎓 I graduated Public Finance Licence Department at Dumlupınar University.
-  🎓 Also I graduated Web Programming department at Denizli Commerce Vocational High School.
+- 🎓 I graduated Public Finance Licence Department at Dumlupınar University.
+- 🎓 Also I graduated Web Programming department at Denizli Commerce Vocational High School.
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 I’m currently learning **kotlin,Android,Githup,Git**
 - ✍️ &nbsp; Watching History Documentary and trying out latest design trends as hobbies/side hustles.
