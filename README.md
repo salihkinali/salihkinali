@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I’m currently working on Finance Operation Responsible at Hastalya Automotive Invesment marketing Mercedes dealer. Also I interested in Mobile Application Development at the same time.</h1>
+<h1 align="center">Hi 👋, I am Salih KInalı.</h1>
 <h3 align="center">A passionate Mobile Application Development and</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihkinali&label=Profile%20views&color=0e75b6&style=flat" alt="salihkinali" /> </p>
