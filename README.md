@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Salih KInalı.</h1>
 <h3 align="center">A passionate Mobile Application Development</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 - 🔭 I’m currently working on **Finance Operation Responsible at Hastalya Automotive Invesment marketing Mercedes dealer. Also I interested in Mobile Application Development at the same time.**
@@ -11,12 +12,6 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 - 📫 How to reach me **salih_3220@hotmail.com**
-
-- <br>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
