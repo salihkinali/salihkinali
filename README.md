@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **salih_3220@hotmail.com**
 
+   Medium
+ - <a href="https://salihkinali.medium.com/clean-architecture-projede-katmanlar-aras%C4%B1nda-i%CC%87leti%C5%9Fim-898e4203d8ad" target="blank">Clean Architecture Projede Katmanlar Arasında İletişim</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_kinali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_kinali" height="30" width="40" /></a>
