@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-- 🔭 I’m currently working on **Finance Operation Responsible at Hastalya Automotive Invesment marketing Mercedes dealer. Also I interested in Mobile Application Development at the same time.**
+- 🔭 I’m currently working on Android Developer at Performa Software.**
 - 🎓 I graduated Public Finance Licence Department at Dumlupınar University.
 - 🎓 Also I graduated Web Programming department at Denizli Commerce Vocational High School.
 - 💼 &nbsp; Junior Android developer.
