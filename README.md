@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-- 🔭 I’m currently working on Android Developer at Performa Software.
+- 🔭 I’m currently working on Android Developer at FUPS.
 - 🎓 I graduated Public Finance Licence Department at Dumlupınar University.
 - 🎓 Also I graduated Web Programming department at Denizli Commerce Vocational High School.
 - 💼 &nbsp; Junior Android developer.
