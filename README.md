@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Android Developer at FUPS.
 - 🎓 I graduated Public Finance Licence Department at Dumlupınar University.
 - 🎓 Also I graduated Web Programming department at Denizli Commerce Vocational High School.
-- 💼 &nbsp; Junior Android developer.
+- 💼 &nbsp; Android developer.
 - ✍️ &nbsp; Watching History Documentary and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
